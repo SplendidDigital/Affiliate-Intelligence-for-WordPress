@@ -1,4 +1,4 @@
-# AffiliatAffiliate Intelligence for WordPress
+# Affiliate Intelligence for WordPress
 Version: 2.5.63 · Author: Digital Splendid · License: GPL-2.0-or-later
 
 Affiliate Intelligence helps WordPress site owners discover and organize affiliate-link records, review possible advertisers and networks, monitor link health, optionally track outbound clicks, import revenue CSVs, and prepare shareable monetization reports for buyers or business partners.
